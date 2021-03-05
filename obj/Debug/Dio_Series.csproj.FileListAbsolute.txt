@@ -1,0 +1,6 @@
+c:\users\mateus\documents\visual studio 2015\Projects\Dio_Series\Dio_Series\bin\Debug\Dio_Series.exe.config
+c:\users\mateus\documents\visual studio 2015\Projects\Dio_Series\Dio_Series\bin\Debug\Dio_Series.exe
+c:\users\mateus\documents\visual studio 2015\Projects\Dio_Series\Dio_Series\bin\Debug\Dio_Series.pdb
+c:\users\mateus\documents\visual studio 2015\Projects\Dio_Series\Dio_Series\obj\Debug\Dio_Series.csprojResolveAssemblyReference.cache
+c:\users\mateus\documents\visual studio 2015\Projects\Dio_Series\Dio_Series\obj\Debug\Dio_Series.exe
+c:\users\mateus\documents\visual studio 2015\Projects\Dio_Series\Dio_Series\obj\Debug\Dio_Series.pdb
